@@ -25,6 +25,7 @@ Let us look at a simple code that would print the words “Hello World!”:
 
 int main()
 {
+    /* my first program in C*/
     print("Hellow World!);
     return 0;
 }
@@ -43,7 +44,7 @@ int main()
 Let’s look at how to save the source code in a file, how to compile and run it. Following are the simple steps:
 
 1. Open your C/C++ compiler and add the above-mentioned code.
-2. Save the file as Hello World.c
+2. Save the file as "Hello World.c".
 3. Now Compile and run by clicking F9 (Code::Blocks).
 4. If there are no errors in your code the compiler will create a window that will display **"Hello World!"**.
 

@@ -3,7 +3,6 @@ baseURL: https://sakibsadmanshajib.com
 languageCode: en-us
 title: Sakib Sadman Shajib
 pygmentsstyle: monokai
-disqusShortname: sakibsadmanshajib
 theme: novela
 paginate: 6
 social:
