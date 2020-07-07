@@ -20,6 +20,15 @@ A C program basically consists of the following parts:
 * Comments
 
 Let us look at a simple code that would print the words “Hello World!”:
+```C
+#include <stdio.h>
+
+int main()
+{
+    print("Hellow World!);
+    return 0;
+}
+```
 
 # Let us look at various parts of the above program
 

@@ -2,7 +2,7 @@ baseURL: "https://sakibsadmanshajib.com"
 languageCode: "en-us"
 title: "Sakib Sadman Shajib"
 pygmentsstyle: 'monokai'
-
+disqusShortname: sakibsadmanshajib
 # Theme settings
 theme: novela
 paginate: 6
