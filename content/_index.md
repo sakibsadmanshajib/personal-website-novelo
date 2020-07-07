@@ -4,6 +4,6 @@ hero:
     and storage and loves video games.
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.jpg"
+  image: "/images/IronMan.jpg"
 
 ---
