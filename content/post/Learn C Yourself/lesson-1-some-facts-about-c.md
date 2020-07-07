@@ -1,5 +1,5 @@
 +++
-authors = ["Sakib Sadman Shajib"]
+authors = ["sakibsadmanshajib"]
 date = 2015-05-31T18:00:00Z
 excerpt = "In this lesson, I’ll talk about some facts about the C programming language."
 hero = "/images/c-language.jpg"

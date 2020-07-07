@@ -1,5 +1,5 @@
 +++
-authors = ["Sakib Sadman Shajib"]
+authors = ["sakibsadmanshajib"]
 date = 2015-06-01T18:00:00Z
 excerpt = "A C program basically consists of the following parts. Preprocessor Commands, Functions, Variables, Statements & Expressions, Comments"
 hero = "/images/c-language.jpg"
