@@ -1,3 +1,12 @@
++++
+avatar = "/images/sakibsadmanshajib.jpg"
+bio = "Sakib Sadman Shajib is a computer Engineering student, entrepreneur and a PC enthusiast living in Dhaka, Bangladesh.\n  Feel free to send a message in Discord @shajib198#1073"
+title = "Sakib Sadman Shajib"
+[[social]]
+title = "Facebook"
+url = "https://facebook.com/sakibsadmanshajib"
+
++++
 # /content/authors/sakibsadmanshajib/_index.md
 ---
 title: Sakib Sadman Shajib
