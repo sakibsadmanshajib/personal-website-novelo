@@ -4,9 +4,6 @@ bio = "Sakib Sadman Shajib is a computer Engineering student, entrepreneur and a
 featured = true
 title = "Sakib Sadman Shajib"
 [[social]]
-title = "Medium"
-url = "https://medium.com/@sakibsadmanshajib"
-[[social]]
 title = "Instagram"
 url = "https://instagram.com/sakibsadmanshajib"
 [[social]]
