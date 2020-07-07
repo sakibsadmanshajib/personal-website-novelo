@@ -41,4 +41,4 @@ fields:
   default: []
   label: Authors
 pages:
-- content/post/lesson-1-some-facts-about-c.md
+- content/post/Learn C Yourself/lesson-2-c-program-structure.md
