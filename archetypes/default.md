@@ -1,12 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-hero: /images/hero-3.jpg
-excerpt: "A default excerpt"
+hero: /images/ironman.jpg
+excerpt: "Sakib Sadman Shajib is a Computer Engineer, Astrophysics Enthusiast, who promotes clean energy production and storage and loves video games."
 timeToRead: 5
 authors:
-  - Dennis Brotzky
+  - Sakib Sadman Shajib
 draft: true
 ---
 
-Some default content
+<!-- Some default content -->
