@@ -1,7 +1,26 @@
 +++
 avatar = "/images/sakibsadmanshajib.jpg"
 bio = "Sakib Sadman Shajib is a computer Engineering student, entrepreneur and a PC enthusiast living in Dhaka, Bangladesh.\n  Feel free to send a message in Discord @shajib198#1073"
+featured = true
 title = "Sakib Sadman Shajib"
+[[social]]
+title = "YouTube"
+url = "https://www.youtube.com/channel/UC3G-8lo75Ou73km90mRrucA"
+[[social]]
+title = "Medium"
+url = "https://medium.com/@sakibsadmanshajib"
+[[social]]
+title = "Instagram"
+url = "https://instagram.com/sakibsadmanshajib"
+[[social]]
+title = "LinkedIn"
+url = "https://bd.linkedin.com/in/sakibsadmanshajib"
+[[social]]
+title = "Twitter"
+url = "https://twitter.com/shajib1998"
+[[social]]
+title = "GitHub"
+url = "https://github.com/sakibsadmanshajib"
 [[social]]
 title = "Facebook"
 url = "https://facebook.com/sakibsadmanshajib"
