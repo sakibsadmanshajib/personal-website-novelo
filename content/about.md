@@ -13,3 +13,5 @@ title: About
 + A technological wizard.
 
 + A person who eats tech, sleeps with tech and dreams about tech.
+
++ Deshi Elon musk, bad with words good with technology.
