@@ -1,4 +1,12 @@
-﻿Canadian University Admission Checklist
+﻿+++
+authors = ["sakibsadmanshajib"]
+date = 2023-09-27T05:00:00Z
+excerpt = "Checklist for admission to a Canadian university and study permit application."
+hero = "/images/canuadchecklist.jpg"
+timeToRead = 3
+title = "Canadian University Admission Checklist"
+
++++
 # Admission to a Canadian University:
 1. ## English Proficiency Test: 
 - Register for the IELTS exam, ensuring it's well in advance of application deadlines.
