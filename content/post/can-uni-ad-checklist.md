@@ -1,11 +1,10 @@
 ﻿+++
 authors = ["sakibsadmanshajib"]
 date = 2023-09-26T05:00:00Z
-excerpt = "Checklist for admission to a Canadian university and study permit application."
-hero = "/images/canuadchecklist.jpg"
-timeToRead = 3
+excerpt = "This is a checklist for admission to a Canadian university and study permit application for Bangladeshi Applicants. It is based on my experience and may not be applicable to everyone. I hope it helps you in some way."
+hero = "/images/can-uni-ad-checklist.jpg"
+timeToRead = 5
 title = "Canadian University Admission Checklist"
-
 +++
 
 This is a checklist for admission to a Canadian university and study permit application for Bangladeshi Applicants. It is based on my experience and may not be applicable to everyone. I hope it helps you in some way.
