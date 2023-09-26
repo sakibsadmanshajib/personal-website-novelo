@@ -1,6 +1,6 @@
 ﻿+++
 authors = ["sakibsadmanshajib"]
-date = 2023-09-27T05:00:00Z
+date = 2023-09-26T05:00:00Z
 excerpt = "Checklist for admission to a Canadian university and study permit application."
 hero = "/images/canuadchecklist.jpg"
 timeToRead = 3
